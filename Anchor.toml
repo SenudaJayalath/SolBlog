@@ -1,7 +1,7 @@
 [features]
 seeds = false
 [programs.localnet]
-solblog = "Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS"
+solblog = "AxJAs9EsL9DoLBtdbMG51TWdYomP6nGXc1U4MDPqMaye"
 
 [registry]
 url = "https://anchor.projectserum.com"
